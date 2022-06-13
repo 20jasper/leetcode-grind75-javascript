@@ -1,6 +1,6 @@
 # Grind75 Solutions: JavaScript
 
-As I work through this list I figure I would make a GitHub repo with my solutions along with articles and videos that relate to the problems that I've found helpful. 
+Grind75 Solutions in JavaScript with comments explaining my thought process and the code, links to the original problem, the instructions, and some test cases
 
 ## The problems
 1. [Two Sum](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/1-2sum.js)
