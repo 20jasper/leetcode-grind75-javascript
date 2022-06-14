@@ -5,7 +5,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 ## The problems
 1. [Two Sum](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/1-2sum.js)
 2. [Valid Parentheses](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/20-validParentheses.js)
-3. Merge Two Sorted Lists
+3. [Merge Two Sorted Lists](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/21-mergeTwoSortedLists.js)
 4. Best Time to Buy and Sell Stock
 5. Valid Palindrome
 6. Invert Binary Tree
