@@ -9,7 +9,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 4. [Best Time to Buy and Sell Stock](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/121-bestTimeToSellAndBuyStock.js)
 5. [Valid Palindrome](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/125-validPalindrome.js)
 6. Invert Binary Tree
-7. Valid Anagram
+7. [Valid Anagram](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/242-validAnagram.js)
 8. Binary Search
 9. Flood Fill
 10. Maximum Subarray
