@@ -12,7 +12,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 7. [Valid Anagram](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/242-validAnagram.js)
 8. [Binary Search](https://github.com/20jasper/codewars-and-leetcode/blob/47634f23a4ea9a45a9bcf43c8a16eb516f2f9949/LeetCode/704-binarySearch.js)
 9. [Flood Fill](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/733-floodFill.js)
-10. Maximum Subarray
+10. [Maximum Subarray](https://github.com/20jasper/codewars-and-leetcode/blob/a6ba1fa2a4a8cab3bcef31ac5e6cff4187be7b43/LeetCode/53-maximumSubarray.js)
 11. Lowest Common Ancestor of a Binary Search Tree
 12. Balanced Binary Tree
 13. Linked List Cycle
