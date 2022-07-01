@@ -28,7 +28,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 23. Diameter of Binary Tree
 24. Middle of the Linked List
 25. Maximum Depth of Binary Tree
-26. Contains Duplicate
+26. [Contains Duplicate](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/217-containsDuplicate.js)
 27. Insert Interval
 28. 01 Matrix
 29. K Closest Points to Origin
