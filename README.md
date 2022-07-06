@@ -47,7 +47,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 42. Search in Rotated Sorted Array
 43. Combination Sum
 44. Permutations
-45. Merge Intervals
+45. [Merge Intervals](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/56-mergeIntervals.js)
 46. Lowest Common Ancestor of a Binary Tree
 47. Time Based Key-Value Store
 48. Accounts Merge
