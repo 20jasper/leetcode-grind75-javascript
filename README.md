@@ -55,7 +55,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 50. Word Break
 51. Partition Equal Subset Sum
 52. String to Integer (atoi)
-53. Spiral Matrix
+53. [Spiral Matrix](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/54-spiralMatrix.js)
 54. Subsets
 55. Binary Tree Right Side View
 56. Longest Palindromic Substring
