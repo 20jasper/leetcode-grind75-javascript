@@ -81,5 +81,4 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 
 ## Attribution
 - The original Grind 75 list can be found [here](https://www.techinterviewhandbook.org/grind75)
-- The original list of patterns was sourced from [here](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - The original markdown file can be found [here](https://github.com/curtisbarnard/leetcode-grind75-javascript)
