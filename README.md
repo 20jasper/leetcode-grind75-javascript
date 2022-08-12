@@ -40,7 +40,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 35. Course Schedule
 36. Implement Trie (Prefix Tree)
 37. Coin Change
-38. Product of Array Except Self
+38. [Product of Array Except Self](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/238-productOfArrayExceptSelf.js)
 39. Validate Binary Search Tree
 40. [Number of Islands](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/200-numberOfIslands.js)
 41. Rotting Oranges
