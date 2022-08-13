@@ -33,7 +33,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 28. 01 Matrix
 29. K Closest Points to Origin
 30. Longest Substring Without Repeating Characters
-31. 3Sum
+31. [3Sum](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/15-3sum.js)
 32. Binary Tree Level Order Traversal
 33. Clone Graph
 34. Evaluate Reverse Polish Notation
