@@ -71,7 +71,7 @@ Grind75 Solutions in JavaScript with comments explaining my thought process and 
 66. Kth Smallest Element in a BST
 67. Minimum Window Substring
 68. Serialize and Deserialize Binary Tree
-69. Trapping Rain Water
+69. [Trapping Rain Water](https://github.com/20jasper/codewars-and-leetcode/blob/main/LeetCode/42-trappingRainWater.js)
 70. Find Median from Data Stream
 71. Word Ladder
 72. Basic Calculator
